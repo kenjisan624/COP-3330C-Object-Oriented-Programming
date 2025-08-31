@@ -56,14 +56,11 @@ It was pretty fun to add the car model text graphic to each output result:
     
     
         ______
-
-       
+     
        /|_||_\`.__
-
 
        (  o  o  o  )
 
-  
         `-(_)--(_)-'
 
    
