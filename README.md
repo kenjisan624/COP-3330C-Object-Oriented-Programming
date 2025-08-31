@@ -9,6 +9,9 @@ My repository where I will be sharing project done at Valencia College in Spring
 
 **Description of the project: **
 
+<img src="Prius V Brown.png" width="250" >
+
+
 I was taking the class back on January 2025, while learning concepts on inheritance, polymorphism, and interface were part of the theory. In this program since I am a big fan of the Toyota car model Prius, and I own two prii(term for plural) according to  the Toyota team after they did the survey on the plural term for prius in 2011, February 20. I will be using Prius car models to undetstand those learnt concepts. 
 
 Also, Prius with its original settings and the Prius V which stands for versatility, This program will perform inheritance and polymorphism. Interface "Model" has been added and by utilizing implements and extends I was able to modify the desired performance in other class.
@@ -88,6 +91,6 @@ This Version of prius can go up to 103.0 meters of distance in 10 seconds.
 
 This is the UML diagram created for the class:
 
-<img src="Kenji Nakanishi UML diagram Project 2..png" widtg="250" >
+<img src="Kenji Nakanishi UML diagram Project 2..png" width="250" >
 
    
