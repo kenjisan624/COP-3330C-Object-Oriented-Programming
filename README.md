@@ -53,16 +53,11 @@ It was pretty fun to add the car model text graphic to each output result:
 
 **an example output is:**
 ***********************************PRIUS**********************************
-
-
     ______
-
     
    /|_||_\`.__
 
-   
   (  o  o  o  )
-
   
    `-(_)--(_)-'
 
