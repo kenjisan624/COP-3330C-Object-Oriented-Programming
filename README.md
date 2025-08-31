@@ -23,14 +23,17 @@ It contains PARENT Class Prius where: added data types such as name, price, year
 
 - Attribute delcared as Protected
 - Customized methods:
+an Interface model that contains two methods: 
+
   1) Age by Years: Which substract the car manufactured year by 2025,
   example: 2024 Toyota prius will be 2025 - 2024 = 1 year old car.
 
 
   2) Distnace: Calculate how far does it goes in 10 seconds.
 
-an Interface model that contains two methods: 
+
   3) Variant: Displaying specific model information to the user
+
   
   4) MSRP: Give the user information on the initial pricing and year of launch
      MSRP stands for Manufacturer Suggested Retail Price
@@ -44,6 +47,7 @@ I did used extends which make them the CHILD classes. So, I added the @Override 
 **Tools used:**
 - Java language
 - IDE: JetBrain IntelliJ IDE
+
    
 Expected input and outputs: 
 The code will gather information from the instantiated objects with different values depending on the Year of the Prius and its model. 
