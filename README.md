@@ -55,8 +55,8 @@ It was pretty fun to add the car model text graphic to each output result:
 ***********************************PRIUS**********************************
     
     
-          ______
-         /|_||_\`.__
+         ______
+        /|_||_\`.__
        (  o  o  o  )
         `-(_)--(_)-'
 
