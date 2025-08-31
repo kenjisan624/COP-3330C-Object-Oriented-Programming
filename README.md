@@ -53,13 +53,18 @@ It was pretty fun to add the car model text graphic to each output result:
 
 **an example output is:**
 ***********************************PRIUS**********************************
-    ______
     
-   /|_||_\`.__
+    
+        ______
 
-  (  o  o  o  )
+       
+       /|_||_\`.__
+
+
+       (  o  o  o  )
+
   
-   `-(_)--(_)-'
+        `-(_)--(_)-'
 
    
 V model Information [name= Prius model V2 , price= 30935.0]
