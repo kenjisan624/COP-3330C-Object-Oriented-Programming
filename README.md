@@ -91,6 +91,6 @@ This Version of prius can go up to 103.0 meters of distance in 10 seconds.
 
 This is the UML diagram created for the class:
 
-<img src="Kenji Nakanishi UML diagram Project 2..png" width="500" >
+<img src="Kenji Nakanishi UML diagram Project 2..png" width="900" >
 
    
