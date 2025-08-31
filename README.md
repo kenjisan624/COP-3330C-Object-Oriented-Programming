@@ -53,15 +53,37 @@ It was pretty fun to add the car model text graphic to each output result:
 
 **an example output is:**
 ***********************************PRIUS**********************************
+
+
     ______
+
+    
    /|_||_\`.__
+
+   
   (  o  o  o  )
+
+  
    `-(_)--(_)-'
+
+   
 V model Information [name= Prius model V2 , price= 30935.0]
+
+
 Prius model V2 was released in May of 2011 in Japan.
+
+
 Prius model V2 had a original MSRP of $30935.0 dollars.
+
+
 Your car is manufactured in 2016
+
+
 This vehicle is 9 years old now.
+
+
 This Version of prius can go up to 103.0 meters of distance in 10 seconds.
+
+
 ***********************************PRIUS**********************************
    
