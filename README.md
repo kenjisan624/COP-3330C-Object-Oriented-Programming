@@ -52,7 +52,7 @@ Added an array **prii** after the research, then used a loop "for" to display re
 It was pretty fun to add the car model text graphic to each output result:
 
 **an example output is:**
-***********************************PRIUS**********************************
+
     
     
          ______
@@ -79,7 +79,7 @@ This vehicle is 9 years old now.
 This Version of prius can go up to 103.0 meters of distance in 10 seconds.
 
 
-***********************************PRIUS**********************************
+
 
 
 This is the UML diagram created for the class:
